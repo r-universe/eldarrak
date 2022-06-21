@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FLightR"]
+	path = FLightR
+	url = https://github.com/eldarrak/flightr
+	shallow = true
+	registered = true
